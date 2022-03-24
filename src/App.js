@@ -1,6 +1,6 @@
 import React from 'react'
-import Main from './modules/simple-crd-app/Main'
-import UseCallbackApp from './modules/usecallbackhook/UseCallbackApp'
+// import Main from './modules/simple-crd-app/Main'
+// import UseCallbackApp from './modules/usecallbackhook/UseCallbackApp'
 import UseMemoApp from './modules/usememohook/UseMemoApp'
 
 const App = () => {
